@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 754b788a4055fdc4d854a30b57c1212a, type: 3}
+  m_Name: NorthernWoods
+  m_EditorClassIdentifier: 
+  description: You entered the Woods with a lot of trees.
+  roomName: 
+  exits:
+  - direction: south
+    directionDescription: a plain field with barrels
+    directionRoom: {fileID: 11400000, guid: 973297320734b444e96ead953fdd614d, type: 2}
+  items: []
+  enviromentObjects: []
